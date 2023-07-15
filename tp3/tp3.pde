@@ -1,3 +1,4 @@
+//https://www.youtube.com/watch?v=ISTsjVJTbNQ
 PImage p;
 int cant = 25;
 PImage[] fondosDePantallas = new PImage[cant];
